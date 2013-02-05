@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+${1:methodName}: function (${2:arguments}) {
+    var self = this;
+
+    ${3}
+}
+]]></content>
+    <tabTrigger>meth</tabTrigger>
+    <description>JS - method</description>
+    <scope>source.js</scope>
+</snippet>
