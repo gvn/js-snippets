@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[console.log(${1:this});]]></content>
+    <content><![CDATA[console.log($1);]]></content>
     <tabTrigger>log</tabTrigger>
     <description>JS - console.log</description>
     <scope>source.js</scope>

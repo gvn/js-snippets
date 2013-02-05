@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+for (i = 0, ii = ${1:array}.length; i < ii; i += 1) {
+    $2
+}]]></content>
+    <tabTrigger>fora</tabTrigger>
+    <description>JS - for array</description>
+    <scope>source.js</scope>
+</snippet>
