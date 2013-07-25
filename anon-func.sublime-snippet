@@ -1,9 +1,9 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 function (${1:arguments}) {
-    $2
+	$2
 }]]></content>
-    <tabTrigger>afn</tabTrigger>
-    <description>JS - anonymous function</description>
-    <scope>source.js</scope>
+	<tabTrigger>afn</tabTrigger>
+	<description>JS - anonymous function</description>
+	<scope>source.js</scope>
 </snippet>
