@@ -4,6 +4,12 @@ JavaScript snippets for Sublime Text.
 
 4 spaces. JSLint compliant.
 
+###OSX Installation for Sublime Text 3###
+```bash
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
+git clone https://github.com/gvn/js-snippets.git
+```
+
 ## afn
 ```javascript
 function (arguments) {
