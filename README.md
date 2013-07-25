@@ -2,7 +2,7 @@
 
 JavaScript snippets for Sublime Text.
 
-4 spaces. JSLint compliant.
+JSLint and JSHint compliant.
 
 ###OSX Installation for Sublime Text 3###
 ```bash
