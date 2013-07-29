@@ -1,6 +1,6 @@
-# JS Snippets
+# Minimalist JavaScript Snippets
 
-JavaScript snippets for Sublime Text.
+A small collection of useful JavaScript snippets for Sublime Text.
 
 JSLint and JSHint compliant.
 
@@ -17,18 +17,6 @@ function (arguments) {
 }
 ```
 
-## log
-```javascript
-console.log();
-```
-
-## fora
-```javascript
-for (i = 0, ii = array.length; i < ii; i += 1) {
-    
-}
-```
-
 ## fn
 ```javascript
 function name(arguments) {
@@ -41,6 +29,18 @@ function name(arguments) {
 methodName: function (arguments) {
     var self = this;
 
+    
+}
+```
+
+## log
+```javascript
+console.log();
+```
+
+## fora
+```javascript
+for (i = 0, ii = array.length; i < ii; i += 1) {
     
 }
 ```
