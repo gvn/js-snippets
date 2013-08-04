@@ -51,3 +51,12 @@ for (i = 0, ii = array.length; i < ii; i += 1) {
 
 });
 ```
+
+## ife
+```javascript
+if () {
+
+} else {
+
+}
+```
