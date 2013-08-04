@@ -1,8 +1,8 @@
-# JS Snippets
+# Minimalist JavaScript Snippets
 
-JavaScript snippets for Sublime Text.
+A small collection of commonly needed JavaScript snippets for Sublime Text.
 
-4 spaces. JSLint compliant.
+JSLint and JSHint compliant.
 
 ###OSX Installation for Sublime Text 3###
 ```bash
@@ -13,6 +13,22 @@ git clone https://github.com/gvn/js-snippets.git
 ## afn
 ```javascript
 function (arguments) {
+
+}
+```
+
+## fn
+```javascript
+function name(arguments) {
+
+}
+```
+
+## meth
+```javascript
+methodName: function (arguments) {
+    var self = this;
+
 
 }
 ```
@@ -34,20 +50,4 @@ for (i = 0, ii = array.length; i < ii; i += 1) {
 .forEach(function (element, index, array) {
 
 });
-```
-
-## fn
-```javascript
-function name(arguments) {
-
-}
-```
-
-## meth
-```javascript
-methodName: function (arguments) {
-    var self = this;
-
-
-}
 ```
