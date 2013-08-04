@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+.forEach(function (${1:element}, ${2:index}, ${3:array}) {
+	$4
+});]]></content>
+	<tabTrigger>.fore</tabTrigger>
+	<description>JS - forEach</description>
+	<scope>source.js</scope>
+</snippet>

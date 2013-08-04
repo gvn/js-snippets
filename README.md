@@ -13,7 +13,7 @@ git clone https://github.com/gvn/js-snippets.git
 ## afn
 ```javascript
 function (arguments) {
-    
+
 }
 ```
 
@@ -25,14 +25,21 @@ console.log();
 ## fora
 ```javascript
 for (i = 0, ii = array.length; i < ii; i += 1) {
-    
+
 }
+```
+
+## .fore
+```javascript
+.forEach(function (element, index, array) {
+
+});
 ```
 
 ## fn
 ```javascript
 function name(arguments) {
-    
+
 }
 ```
 
@@ -41,6 +48,6 @@ function name(arguments) {
 methodName: function (arguments) {
     var self = this;
 
-    
+
 }
 ```
